@@ -31,7 +31,7 @@ pip install ultralytics opencv-python pandas matplotlib numpy
 
 Clone the repository and navigate to the project folder:
 ```sh
-git clone https://github.com/yourusername/autonomous-nav-yolo.git
+git clone https://github.com/PrageethM1702/Autonomous-Navigation.git
 cd autonomous-nav-yolo
 ```
 
